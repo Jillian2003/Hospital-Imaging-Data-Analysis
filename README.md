@@ -42,9 +42,8 @@ Analyze trends regionally and at the hospital level to gain insights into IT ser
 - Normalize categorical variables.
 - **Priority:** Remove confidential information (employee/patient names).
 
-<img width="1021" height="872" alt="Screenshot 2025-06-30 101255" src="https://github.com/user-attachments/assets/747047a1-39bc-4cae-a5c1-12b8721c0f84" /> <img width="1283" height="824" alt="Screenshot 2025-06-30 101331" src="https://github.com/user-attachments/assets/db7a1054-8f19-4a3f-99dc-a5d97da326d4" />
-
-
+<img width="1021" height="872" alt="Screenshot 2025-06-30 101255" src="https://github.com/user-attachments/assets/747047a1-39bc-4cae-a5c1-12b8721c0f84" /> 
+<img width="1283" height="824" alt="Screenshot 2025-06-30 101331" src="https://github.com/user-attachments/assets/db7a1054-8f19-4a3f-99dc-a5d97da326d4" />
 
 ---
 
@@ -170,4 +169,11 @@ Analyze trends regionally and at the hospital level to gain insights into IT ser
 - Drill down into data for high-incident regions to identify root causes and enable targeted, efficient resource allocation.
 
 ---
+
+## Dashboard
+<img width="1920" height="1112" alt="Screenshot 2025-06-30 142426" src="https://github.com/user-attachments/assets/6573adc6-9ece-45b3-be59-ef3637108a4d" />
+
+<img width="1920" height="1109" alt="Screenshot 2025-06-30 142437" src="https://github.com/user-attachments/assets/8f0efd2a-de23-44f8-b6da-02fe31b9bd1f" />
+
+<img width="1920" height="1106" alt="Screenshot 2025-06-30 142447" src="https://github.com/user-attachments/assets/099ef5b2-53b7-41ef-8f82-80808a59c23c" />
 
