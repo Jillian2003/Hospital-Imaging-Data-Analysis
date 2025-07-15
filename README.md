@@ -42,6 +42,10 @@ Analyze trends regionally and at the hospital level to gain insights into IT ser
 - Normalize categorical variables.
 - **Priority:** Remove confidential information (employee/patient names).
 
+<img width="1021" height="872" alt="Screenshot 2025-06-30 101255" src="https://github.com/user-attachments/assets/747047a1-39bc-4cae-a5c1-12b8721c0f84" /> <img width="1283" height="824" alt="Screenshot 2025-06-30 101331" src="https://github.com/user-attachments/assets/db7a1054-8f19-4a3f-99dc-a5d97da326d4" />
+
+
+
 ---
 
 ## Data Analysis Breakdown
