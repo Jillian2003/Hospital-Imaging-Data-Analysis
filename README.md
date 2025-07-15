@@ -1,7 +1,4 @@
 # Project Hospital Enterprise Imaging Operations Dashboard
-
----
-**Date Reported: https://public.tableau.com/app/profile/jillian.ireland/viz/HospitalEnterpriseImagingOperationsDashboard/Overview
 ---
 ## Dataset
 
@@ -172,6 +169,7 @@ Analyze trends regionally and at the hospital level to gain insights into IT ser
 ---
 
 ## Dashboard
+https://public.tableau.com/app/profile/jillian.ireland/viz/HospitalEnterpriseImagingOperationsDashboard/Overview
 <img width="1920" height="1112" alt="Screenshot 2025-06-30 142426" src="https://github.com/user-attachments/assets/6573adc6-9ece-45b3-be59-ef3637108a4d" />
 
 <img width="1920" height="1109" alt="Screenshot 2025-06-30 142437" src="https://github.com/user-attachments/assets/8f0efd2a-de23-44f8-b6da-02fe31b9bd1f" />
